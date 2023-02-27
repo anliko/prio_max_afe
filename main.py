@@ -1,7 +1,7 @@
 from random import randint
 
 # In the following we implement the maximum AFE that is represented in the paper of Corrigan-Gibbs and
-# Boneh from 2017.
+# Boneh from 2017 (https://crypto.stanford.edu/prio/).
 # Their work is called "Prio: Private, Robust, and Scalable Computation of Aggregate Statistics"
 # and describes how to realize privacy-preserving aggregation of distributed, sensitive user data
 # using their protocol "Prio".
